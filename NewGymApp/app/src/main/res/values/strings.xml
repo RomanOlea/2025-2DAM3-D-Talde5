@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">NewGymApp</string>
+
+    <string name="signUp">Sign up</string>
+    <string name="logIn">Log in</string>
+
+    <string name="notAnAccount">Don´t have an account?</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="whatAreYou">What are you?</string>
+    <string name="client">Client</string>
+    <string name="trainer">Trainer</string>
+    <string name="haveAnAccount">You already have an account?</string>
+    <string name="birthhint" translatable="false">DD/MM/YYYY</string>
+
+    <string name="newUserName">Name</string>
+    <string name="newUserLastName">Last Name</string>
+    <string name="newBirthdate">Birth date</string>
+    <string name="finishSignUp">Finish</string>
+
+
+    <string name="all">All</string>
+    <string name="beginner">Beginner</string>
+    <string name="middle">Middle</string>
+    <string name="advanced">Advanced</string>
+
+    <string name="your_stats">Your daily stats</string>
+    <string name="actual_workouts">Workouts count</string>
+    <string name="create_workout">Create a Workout</string>
+    <string name="level">Level</string>
+    <string name="linkworkout">URL</string>
+
+    <string name="profilepreview">Your Profile Preview</string>
+
+    <string name="apply">Apply</string>
+
+
+</resources>
